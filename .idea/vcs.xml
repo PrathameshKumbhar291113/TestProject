@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseAdvanceAuthentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HappyBirthdayShreya" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Movie Display App Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shared_Preferences_Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UdacityLesson2" vcs="Git" />
+  </component>
+</project>

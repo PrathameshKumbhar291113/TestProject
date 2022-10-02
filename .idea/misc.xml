@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/drawable/ic_search.xml" value="0.262" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/drawable/search_view_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/layout/activity_inbox.xml" value="0.264" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/layout/activity_splash.xml" value="0.2099187687045746" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/layout/activity_splpash.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/layout/activity_user_detail.xml" value="0.2" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/layout/activity_welcome.xml" value="0.176" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/Test Project/app/src/main/res/layout/item_users_card.xml" value="0.1" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/app/src/main/res/layout/activity_inbox.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
